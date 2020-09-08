@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "George Koshy",
+    "occupation": "Engineer, Ethical hacker and a Python/ JS Developer",
+    "description": "Budding Full Stack Javascript and Python Developer",
+    "image": "0.jfif",
+    "bio": "My name is George, I'm an Electronics Engineer, a Ethical Hacker and a Budding Full Stack Python/ JS Developer",
+    "contactmessage": "Get in touch if you have something I could do for you",
+    "email": "developer.cs07@gmail.com",
+    "phone": "+7406644411",
+    "address": {
+      "street": "",
+      "city": "Bangalore",
+      "state": "Karnataka, India",
+      "zip": "560084"
+    },
+    "website": "https://codewithchris.tk",
+    "resumedownload": "https://codewithchris.tk",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/george-koshy-989a11118/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/geo_koshy/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/chrisstone07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Cambridge Institute of Technology, Bangalore",
+        "degree": "Bachelor's of Electronics and Communication Engineering",
+        "graduated": "August 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "ES6 Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Material-UI",
+        "level": "70%"
+      },
+      {
+        "name": "DevOps",
+        "level": "60%"
+      },
+      {
+        "name": "C",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "Embedded Systems and IoT",
+        "level": "80%"
+      },
+      {
+        "name": "Raspberry Pi",
+        "level": "70%"
+      },
+      {
+        "name": "Flask",
+        "level": "50%"
+      },
+      {
+        "name": "C#",
+        "level": "40%"
+      },
+      {
+        "name": "Java",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "101Reporters",
+        "category": "News Reporters Website built with MongoDB, ExpressJS, ReactJS + Material-UI and NodeJS",
+        "image": "101-Reps.PNG",
+        "url": "https://101reporters.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "George is very resource-full and has excellent problem solving skills",
+        "user": "Anonymous"
+      }
+    ]
+  }
+}
