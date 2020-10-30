@@ -6,7 +6,7 @@
     "image": "0.jfif",
     "bio": "My name is George, I'm an Electronics Engineer, a Ethical Hacker and a Budding Full Stack Python/ JS Developer",
     "contactmessage": "Get in touch if you have something I could do for you",
-    "email": "developer.cs07@gmail.com",
+    "email": "codewithchris.ml@gmail.com",
     "phone": "+7406644411",
     "address": {
       "street": "",
@@ -14,8 +14,8 @@
       "state": "Karnataka, India",
       "zip": "560084"
     },
-    "website": "https://codewithchris.tk",
-    "resumedownload": "https://codewithchris.tk",
+    "website": "https://codewithchris.ml",
+    "resumedownload": "https://codewithchris.ml",
     "social": [
       {
         "name": "linkedin",
@@ -42,6 +42,14 @@
         "degree": "Bachelor's of Electronics and Communication Engineering",
         "graduated": "August 2020",
         "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Assistant Systems Engineer",
+        "years": "September 2020 - Present",
+        "description": ""
       }
     ],
     "skills": [
