@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "George Koshy",
-    "occupation": "Engineer, Ethical hacker and a Python/ JS Developer",
+    "occupation": "Engineer, Ethical hacker and a Javascript & Python Developer",
     "description": "Budding Full Stack Javascript and Python Developer",
     "image": "0.jfif",
     "bio": "My name is George, I'm an Electronics Engineer, a Ethical Hacker and a Budding Full Stack Python/ JS Developer",
     "contactmessage": "Get in touch if you have something I could do for you",
-    "email": "developer.cs07@gmail.com",
+    "email": "codewithchris.ml@gmail.com",
     "phone": "+7406644411",
     "address": {
       "street": "",
@@ -14,8 +14,8 @@
       "state": "Karnataka, India",
       "zip": "560084"
     },
-    "website": "https://codewithchris.tk",
-    "resumedownload": "https://codewithchris.tk",
+    "website": "https://codewithchris.ml",
+    "resumedownload": "https://codewithchris.ml/George_Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -44,14 +44,18 @@
         "description": "Graduated with Distinction"
       }
     ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Assistant Systems Engineer",
+        "years": "September 2020 - Present",
+        "description": ""
+      }
+    ],
     "skills": [
       {
-        "name": "Python",
+        "name": "ReactJs",
         "level": "80%"
-      },
-      {
-        "name": "ES6 Javascript",
-        "level": "70%"
       },
       {
         "name": "NodeJS",
@@ -62,16 +66,20 @@
         "level": "80%"
       },
       {
+        "name": "ES6 Javascript",
+        "level": "70%"
+      },
+      {
         "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
         "level": "80%"
       },
       {
         "name": "Git",
         "level": "70%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "80%"
       },
       {
         "name": "Material-UI",
@@ -91,6 +99,10 @@
       },
       {
         "name": "Embedded Systems and IoT",
+        "level": "80%"
+      },
+      {
+        "name": "Reverse Engineering",
         "level": "80%"
       },
       {
