@@ -4,7 +4,7 @@
     "occupation": "Engineer, Ethical hacker and a Javascript & Python Developer",
     "description": "Budding Full Stack Javascript and Python Developer",
     "image": "0.jfif",
-    "bio": "My name is George, I'm an Electronics Engineer, a Ethical Hacker and a Budding Full Stack Python/ JS Developer",
+    "bio": "My name is George, I'm an Electronics Engineer, a Ethical Hacker and a Budding Full Stack Javascript & Python Developer",
     "contactmessage": "Get in touch if you have something I could do for you",
     "email": "codewithchris.ml@gmail.com",
     "phone": "+7406644411",
@@ -35,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Cambridge Institute of Technology, Bangalore",
